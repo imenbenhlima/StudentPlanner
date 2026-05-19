@@ -34,7 +34,7 @@ A comprehensive student companion application built for Android. It allows stude
 
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/imenbenhlima/StudentPlanner)
+   git clone https://github.com/imenbenhlima/StudentPlanner
    ```
 2. Open the project in Android Studio.
 3. Sync the project with Gradle files.
