@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_course.xml",
+        "source": "fr.student.app-main-50:/layout/item_course.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_tool_card.xml",
+        "source": "fr.student.app-main-50:/layout/item_tool_card.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_assignment.xml",
+        "source": "fr.student.app-main-50:/layout/item_assignment.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_reminder.xml",
+        "source": "fr.student.app-main-50:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/fragment_tools.xml",
+        "source": "fr.student.app-main-50:/layout/fragment_tools.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_grade.xml",
+        "source": "fr.student.app-main-50:/layout/item_grade.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_reminder.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_reminder.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_note.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_note.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/activity_list.xml",
+        "source": "fr.student.app-main-50:/layout/activity_list.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_assignment.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_assignment.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_grade.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_grade.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/activity_timer.xml",
+        "source": "fr.student.app-main-50:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/activity_grades.xml",
+        "source": "fr.student.app-main-50:/layout/activity_grades.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_course.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_course.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/dialog_timetable.xml",
+        "source": "fr.student.app-main-50:/layout/dialog_timetable.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/fragment_home.xml",
+        "source": "fr.student.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_timetable.xml",
+        "source": "fr.student.app-main-50:/layout/item_timetable.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/item_note.xml",
+        "source": "fr.student.app-main-50:/layout/item_note.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/fragment_settings.xml",
+        "source": "fr.student.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "fr.student.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "fr.student.app-main-50:/layout/activity_main.xml"
+    }
+]

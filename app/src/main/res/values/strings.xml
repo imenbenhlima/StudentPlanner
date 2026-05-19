@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Étudiant</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_tools">Outils</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <string name="tool_courses">Cours</string>
+    <string name="tool_timetable">Emploi du temps</string>
+    <string name="tool_assignments">Devoirs</string>
+    <string name="tool_notes">Notes</string>
+    <string name="tool_grades">Notes / Moyenne</string>
+    <string name="tool_timer">Compte à rebours</string>
+    <string name="tool_reminders">Rappels</string>
+
+    <string name="home_welcome">Bonjour</string>
+    <string name="home_subtitle">Voici un aperçu de ta semaine</string>
+    <string name="home_today_classes">Cours d\'aujourd\'hui</string>
+    <string name="home_no_classes">Aucun cours prévu aujourd\'hui</string>
+    <string name="home_next_assignment">Prochain devoir</string>
+    <string name="home_no_assignments">Aucun devoir à venir</string>
+    <string name="home_focus">À travailler en priorité</string>
+    <string name="home_no_low_grades">Tes notes sont bonnes sur l\'ensemble des cours notés</string>
+    <string name="home_average">Moyenne actuelle : %1$.2f / 20</string>
+
+    <string name="settings_theme">Thème</string>
+    <string name="settings_theme_light">Clair</string>
+    <string name="settings_theme_dark">Sombre</string>
+    <string name="settings_theme_system">Système</string>
+    <string name="settings_semester">Semestre académique</string>
+    <string name="settings_semester_hint">Choisis le semestre actif. Les données des autres semestres sont conservées.</string>
+    <string name="settings_new_semester">Nouveau semestre</string>
+    <string name="settings_manage_semesters">Gérer les semestres</string>
+
+    <string name="course_name">Nom du cours</string>
+    <string name="course_coefficient">Coefficient</string>
+    <string name="course_description">Description</string>
+    <string name="course_type">Type</string>
+    <string name="type_cours">Cours</string>
+    <string name="type_tp">TP</string>
+    <string name="type_td">TD</string>
+    <string name="type_ci">CI</string>
+    <string name="add">Ajouter</string>
+    <string name="save">Enregistrer</string>
+    <string name="delete">Supprimer</string>
+    <string name="cancel">Annuler</string>
+    <string name="edit">Modifier</string>
+    <string name="empty_courses">Aucun cours. Ajoute ton premier cours.</string>
+
+    <string name="day">Jour</string>
+    <string name="time_start">Début</string>
+    <string name="time_end">Fin</string>
+    <string name="select_course">Choisir un cours</string>
+    <string name="empty_timetable">Emploi du temps vide</string>
+
+    <string name="assignment_title">Titre du devoir</string>
+    <string name="assignment_desc">Description</string>
+    <string name="due_date">Date limite</string>
+    <string name="empty_assignments">Aucun devoir</string>
+
+    <string name="note_title">Titre</string>
+    <string name="note_content">Contenu</string>
+    <string name="note_optional_course">Cours (optionnel)</string>
+    <string name="no_course">Sans cours</string>
+    <string name="empty_notes">Aucune note</string>
+
+    <string name="grade_value">Note / 20</string>
+    <string name="calculate_average">Calculer la moyenne</string>
+    <string name="weighted_average">Moyenne pondérée : %1$.2f / 20</string>
+    <string name="no_grades">Ajoute des notes pour calculer ta moyenne</string>
+
+    <string name="timer_summer">Vacances d\'été</string>
+    <string name="timer_summer_date">1er mai</string>
+    <string name="timer_school">Rentrée scolaire</string>
+    <string name="timer_school_date">12 septembre</string>
+    <string name="timer_days">%1$d j</string>
+    <string name="timer_hours">%1$d h</string>
+    <string name="timer_minutes">%1$d min</string>
+    <string name="timer_seconds">%1$d s</string>
+    <string name="timer_passed">Cette date est passée</string>
+
+    <string name="reminder_text">Texte du rappel</string>
+    <string name="reminder_datetime">Date et heure</string>
+    <string name="empty_reminders">Aucun rappel</string>
+    <string name="notification_channel">Rappels</string>
+    <string name="notification_channel_desc">Notifications des rappels planifiés</string>
+
+    <string name="monday">Lundi</string>
+    <string name="tuesday">Mardi</string>
+    <string name="wednesday">Mercredi</string>
+    <string name="thursday">Jeudi</string>
+    <string name="friday">Vendredi</string>
+    <string name="saturday">Samedi</string>
+    <string name="sunday">Dimanche</string>
+
+    <string name="error_fill_fields">Remplis tous les champs obligatoires</string>
+    <string name="confirm_delete">Supprimer cet élément ?</string>
+    <string name="semester_name_hint">Ex. : Année 1 — Semestre 1</string>
+</resources>

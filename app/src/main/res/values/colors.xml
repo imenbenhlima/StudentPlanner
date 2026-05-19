@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="seed">#5B6CF0</color>
+    <color name="surface_light">#F8F9FF</color>
+    <color name="surface_dark">#12131A</color>
+    <color name="outline_variant">#C5C6D0</color>
+</resources>

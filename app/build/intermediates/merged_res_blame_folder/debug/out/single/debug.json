@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_grade.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_grade.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_activity_main.xml.flat",
+        "source": "fr.student.app-main-50:/layout/activity_main.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_activity_timer.xml.flat",
+        "source": "fr.student.app-main-50:/layout/activity_timer.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_note.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_note.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_schedule.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_schedule.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_reminder.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_reminder.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_grade.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_grade.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_nav_settings.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_nav_settings.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_reminder.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_reminder.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_activity_grades.xml.flat",
+        "source": "fr.student.app-main-50:/layout/activity_grades.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_course.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_course.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_chevron.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_chevron.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_course.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_course.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_assignment.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_assignment.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_grade.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_grade.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_activity_list.xml.flat",
+        "source": "fr.student.app-main-50:/layout/activity_list.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_timer.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_timer.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_fragment_home.xml.flat",
+        "source": "fr.student.app-main-50:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_nav_tools.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_nav_tools.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_nav_home.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_nav_home.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_launcher_simple.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_launcher_simple.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_fragment_tools.xml.flat",
+        "source": "fr.student.app-main-50:/layout/fragment_tools.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/menu_bottom_nav_menu.xml.flat",
+        "source": "fr.student.app-main-50:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_timetable.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_timetable.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_fragment_settings.xml.flat",
+        "source": "fr.student.app-main-50:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_note.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_note.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_reminder.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_reminder.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_tool_course.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_tool_course.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_timetable.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_timetable.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_tool_card.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_tool_card.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_item_assignment.xml.flat",
+        "source": "fr.student.app-main-50:/layout/item_assignment.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/drawable_ic_add.xml.flat",
+        "source": "fr.student.app-main-50:/drawable/ic_add.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_assignment.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_assignment.xml"
+    },
+    {
+        "merged": "fr.student.app-merged_res-48:/layout_dialog_note.xml.flat",
+        "source": "fr.student.app-main-50:/layout/dialog_note.xml"
+    }
+]
